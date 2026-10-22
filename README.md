@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # MLOps Project: Abalone Age Prediction
@@ -196,3 +197,8 @@ When you're done, your repository should contain:
 ---
 
 **Ready to start? Head to branch_0 and read PR_0.md for your first task! 🚀**
+=======
+# MLOps Project: Abalone Age Prediction
+
+Team members: Andreea Patarlageanu, Remi Laget, Ryan Balech, Oliver Smith
+>>>>>>> d9772b64fa3cb28c960dfec0a23f3af2c6cfd748
